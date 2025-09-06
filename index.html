@@ -4,16 +4,38 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Sain Bux - Full Stack Developer</title>
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Person",
+      "name": "Sain Bux",
+      "jobTitle": "Full Stack Developer",
+      "worksFor": {
+        "@type": "Organization",
+        "name": "TechMatter"
+      },
+      "url": "https://sainbux.github.io/",
+      "sameAs": [
+        "https://github.com/Sainbux",
+        "https://doi.org/10.5281/zenodo.17058437"
+      ],
+      "knowsAbout": ["Full Stack Development", "API-First Development", "Web Development"]
+    }
+    </script>
+    
   <style>
     body {
-      font-family: Arial, sans-serif;
+      font-family: Calibri, "Segoe UI", Arial, sans-serif;
       margin: 0;
       padding: 0;
       background: #f8f9fa;
       color: #333;
     }
+    h1, h2, h3 {
+  font-family: Calibri, "Segoe UI", sans-serif;
+}
     header {
-      background: #17680d;
+      background: #0D4B77;
       color: #fff;
       padding: 20px;
       text-align: center;
@@ -33,7 +55,7 @@
     nav a {
       margin: 0 15px;
       text-decoration: none;
-      color: #17680d;
+      color: #0D4B77;
       font-weight: bold;
     }
     section {
@@ -45,10 +67,10 @@
       box-shadow: 0 2px 6px rgba(0,0,0,0.1);
     }
     section h2 {
-      border-bottom: 2px solid #17680d;
+      border-bottom: 2px solid #0D4B77;
       padding-bottom: 10px;
       margin-bottom: 20px;
-      color: #17680d;
+      color: #0D4B77;
     }
     footer {
       text-align: center;
@@ -60,22 +82,61 @@
     a.btn {
       display: inline-block;
       padding: 10px 20px;
-      background: #ff7902;
+      background: #009fdf;
       color: #fff;
       border-radius: 5px;
       text-decoration: none;
       transition: 0.3s;
     }
     a.btn:hover {
-      background: #e66900;
+      background: #0D4B77;
     }
+    /* Make content responsive */
+body {
+  font-family: Calibri, "Segoe UI", Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f8f9fa;
+  color: #333;
+}
+
+/* Sections adjust on small screens */
+section {
+  max-width: 900px;
+  margin: 20px auto;
+  padding: 20px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* Mobile adjustments */
+@media (max-width: 600px) {
+  header h1 {
+    font-size: 1.8rem;
+  }
+  nav a {
+    display: block;
+    margin: 10px 0;
+  }
+  section {
+    margin: 10px;
+    padding: 15px;
+  }
+  img {
+    width: 100px;
+  }
+}
+
   </style>
 </head>
 <body>
   <header>
+    <img src="profile.jpg" alt="Sain Bux" style="border-radius:50%; width:150px; margin-bottom:15px;">
     <h1>Sain Bux</h1>
     <p>Full Stack Developer | Full Stack Development Enthusiast</p>
   </header>
+  
 
   <nav>
     <a href="#about">About</a>
@@ -99,7 +160,7 @@
       One of my recent works focuses on API-driven systems and the impact of an API-first mindset on Full Stack Development.
     </p>
     <p>
-      📄 Read my publication on Zenodo: <br>
+      📄 Read my publication on Zenodo: <br><br>
       <a class="btn" href="https://doi.org/10.5281/zenodo.17058437" target="_blank">
         API-First Development: A Full Stack Approach
       </a>
