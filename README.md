@@ -1,6 +1,6 @@
 # 👋 Introducing Sain Bux – Full Stack Developer & Research Enthusiast  
 
-Hi, I'm **Sain Bux**, a passionate **Full Stack Developer** currently working at **TechMatter**. I specialize in building scalable web applications, crafting API-first architectures, and contributing to open-source and academic research.
+Hi, I'm **Sain Bux**, **Full Stack Developer** currently working at **TechMatter**. I specialize in building scalable web applications, crafting API-first architectures, and contributing to open-source and academic research.
 
 ---
 
