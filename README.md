@@ -6,7 +6,7 @@ Hi, I'm **Sain Bux**, **Full Stack Developer** currently working at **TechMatter
 
 ## 💻 Professional Background  
 
-- 🔹 Full Stack Development (Laravel, Vue.js, React, WordPress)  
+- 🔹 Full Stack Development (Laravel, Vue.js, React, WordPress, Magento)  
 - 🔹 API-First Design & Integration  
 - 🔹 Performance Optimization & Scalable Web Architecture  
 
