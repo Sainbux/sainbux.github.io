@@ -35,4 +35,9 @@ Hi, I'm **Sain Bux**, **Full Stack Developer** currently working at **TechMatter
 
 ---
 
+### 🎓 Certifications
+
+[![Credly Badge](https://images.credly.com/size/340x340/images/f5c094f4-e07c-44e0-b685-4ffd8980fd53/blob)](https://www.credly.com/badges/c9cb5f41-b8da-4b5f-b97d-29eb64b10a0b/public_url)
+
+
 > 🚀 Let's build, publish, and share knowledge together!
