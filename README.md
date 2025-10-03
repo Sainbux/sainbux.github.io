@@ -20,6 +20,32 @@ Hi, I'm **Sain Bux**, **Full Stack Developer** currently working at **TechMatter
 - 📌 DOI: `10.5281/zenodo.17058437`  
 
 ---
+<div style="font-family: Arial, sans-serif; margin: 20px 0;">
+
+  <h3>📄 Future Full Stack Development 2025: Research Trends</h3>
+  <p><strong>Author:</strong> Sain Bux (2025)</p>
+  <a href="https://zenodo.org/record/17058437/export/hx" target="_blank" 
+     style="padding: 8px 12px; margin-right: 8px; background: #0073e6; color: white; text-decoration: none; border-radius: 6px;">
+     Download BibTeX
+  </a>
+  <a href="https://zenodo.org/record/17058437/export/xe" target="_blank" 
+     style="padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 6px;">
+     Download EndNote
+  </a>
+
+  <h3 style="margin-top: 25px;">📄 Future of Artificial Intelligence in Full Stack Development: Emerging Research Trends</h3>
+  <p><strong>Author:</strong> Sain Bux (2025)</p>
+  <a href="https://zenodo.org/record/17117501/export/hx" target="_blank" 
+     style="padding: 8px 12px; margin-right: 8px; background: #0073e6; color: white; text-decoration: none; border-radius: 6px;">
+     Download BibTeX
+  </a>
+  <a href="https://zenodo.org/record/17117501/export/xe" target="_blank" 
+     style="padding: 8px 12px; background: #28a745; color: white; text-decoration: none; border-radius: 6px;">
+     Download EndNote
+  </a>
+
+</div>
+---
 
 ## 🌐 Connect With Me  
 
