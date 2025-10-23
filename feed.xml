@@ -22,18 +22,6 @@
       <category>Web Exploring</category>
       <description><![CDATA[Building Web Apps & Exploring Research – About Sain Bux]]></description>
     </item>
-    
-    <!-- 🔗 Zendo Articles -->
-    <item>
-      <title>Integrating AI Tools into Modern Web Development: Enhancing Productivity and User Experience</title>
-      <link>https://zenodo.org/records/17101794</link>
-      <guid isPermaLink="true">https://zenodo.org/records/17101794</guid>
-      <pubDate>Thu, 11 Sep 2025 22:40:00+05:00</pubDate>
-      <author>sain@techmatterglobal.com (Sain Bux)</author>
-      <category>API</category>
-      <category>Web Development</category>
-      <description><![CDATA[Integrating AI Tools into Modern Web Development: Enhancing Productivity and User Experience]]></description>
-    </item>
 
     <!-- 🔗 OpenPR Publication -->
     <item>
@@ -61,3 +49,4 @@
 
   </channel>
 </rss>
+
