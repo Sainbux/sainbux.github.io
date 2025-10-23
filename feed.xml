@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sain Bux — TechMatter Developer Insights</title>
+    <link>https://sainbux.github.io/</link>
+    <atom:link href="https://sainbux.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>Official feed of Sain Bux — Full Stack Developer at TechMatter. Featuring API-first development insights, research, and modern web architecture discussions.</description>
+    <language>en-us</language>
+    <copyright>© 2025 Sain Bux. All rights reserved.</copyright>
+    <managingEditor>sain@techmatterglobal.com (Sain Bux)</managingEditor>
+    <webMaster>sain@techmatterglobal.com (Sain Bux)</webMaster>
+    <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0000</lastBuildDate>
+    
+    <!-- 🔗 Dev.to Articles -->
+    <item>
+      <title>API-First Development 2025 — The Future of Scalable Web Architecture</title>
+      <link>https://dev.to/sain_bux_dev/api-first-development-2025-the-future-of-scalable-web-architecture</link>
+      <guid isPermaLink="true">https://dev.to/sain_bux_dev/api-first-development-2025-the-future-of-scalable-web-architecture</guid>
+      <pubDate>Mon, 20 Jan 2025 10:00:00 +0000</pubDate>
+      <author>sain@techmatterglobal.com (Sain Bux)</author>
+      <category>API</category>
+      <category>Web Development</category>
+      <description><![CDATA[Exploring how API-first development shapes the future of scalable web systems.]]></description>
+    </item>
+
+    <!-- 🔗 OpenPR Publication -->
+    <item>
+      <title>API-First Development 2025 — Sain Bux Highlights the Future</title>
+      <link>https://www.openpr.com/news/4233634/api-first-development-2025-sain-bux-highlights-the-future</link>
+      <guid isPermaLink="true">https://www.openpr.com/news/4233634/api-first-development-2025-sain-bux-highlights-the-future</guid>
+      <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
+      <author>sain@techmatterglobal.com (Sain Bux)</author>
+      <category>API-First</category>
+      <category>TechMatter</category>
+      <description><![CDATA[Official OpenPR feature by Sain Bux, discussing the future of API-first development and its role in scalable systems.]]></description>
+    </item>
+
+    <!-- 🔗 Medium Article -->
+    <item>
+      <title>Building Smarter APIs — The Developer’s Perspective</title>
+      <link>https://medium.com/@sain-bux/building-smarter-apis-the-developers-perspective</link>
+      <guid isPermaLink="true">https://medium.com/@sain-bux/building-smarter-apis-the-developers-perspective</guid>
+      <pubDate>Tue, 10 Sep 2024 09:30:00 +0000</pubDate>
+      <author>sain@techmatterglobal.com (Sain Bux)</author>
+      <category>API Design</category>
+      <category>Full Stack Development</category>
+      <description><![CDATA[A technical deep dive into API design principles and best practices for scalable architectures.]]></description>
+    </item>
+
+  </channel>
+</rss>
