@@ -10,17 +10,29 @@
     <managingEditor>sain@techmatterglobal.com (Sain Bux)</managingEditor>
     <webMaster>sain@techmatterglobal.com (Sain Bux)</webMaster>
     <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0000</lastBuildDate>
-    
-    <!-- 🔗 Dev.to Articles -->
+
+    <!-- 🔗 Dev Article -->
     <item>
-      <title>API-First Development 2025 — The Future of Scalable Web Architecture</title>
-      <link>https://dev.to/sain_bux_dev/api-first-development-2025-the-future-of-scalable-web-architecture</link>
-      <guid isPermaLink="true">https://dev.to/sain_bux_dev/api-first-development-2025-the-future-of-scalable-web-architecture</guid>
-      <pubDate>Mon, 20 Jan 2025 10:00:00 +0000</pubDate>
+      <title>Building Web Apps and Exploring Research – About Sain Bux</title>
+      <link>https://dev.to/sain_bux_dev/building-web-apps-exploring-research-about-sain-bux-252d</link>
+      <guid isPermaLink="true">https://dev.to/sain_bux_dev/building-web-apps-exploring-research-about-sain-bux-252d</guid>
+      <pubDate>Tue, 29 Sep 2025 22:10:00 00+05:00</pubDate>
+      <author>sain@techmatterglobal.com (Sain Bux)</author>
+      <category>Web Apps and Exploring Research</category>
+      <category>Web Exploring</category>
+      <description><![CDATA[Building Web Apps & Exploring Research – About Sain Bux]]></description>
+    </item>
+    
+    <!-- 🔗 Zendo Articles -->
+    <item>
+      <title>Integrating AI Tools into Modern Web Development: Enhancing Productivity and User Experience</title>
+      <link>https://zenodo.org/records/17101794</link>
+      <guid isPermaLink="true">https://zenodo.org/records/17101794</guid>
+      <pubDate>Thu, 11 Sep 2025 22:40:00+05:00</pubDate>
       <author>sain@techmatterglobal.com (Sain Bux)</author>
       <category>API</category>
       <category>Web Development</category>
-      <description><![CDATA[Exploring how API-first development shapes the future of scalable web systems.]]></description>
+      <description><![CDATA[Integrating AI Tools into Modern Web Development: Enhancing Productivity and User Experience]]></description>
     </item>
 
     <!-- 🔗 OpenPR Publication -->
@@ -28,7 +40,7 @@
       <title>API-First Development 2025 — Sain Bux Highlights the Future</title>
       <link>https://www.openpr.com/news/4233634/api-first-development-2025-sain-bux-highlights-the-future</link>
       <guid isPermaLink="true">https://www.openpr.com/news/4233634/api-first-development-2025-sain-bux-highlights-the-future</guid>
-      <pubDate>Mon, 20 Jan 2025 11:00:00 +0000</pubDate>
+      <pubDate>Wed, 22 Oct 2025 16:16:00+05:00</pubDate>
       <author>sain@techmatterglobal.com (Sain Bux)</author>
       <category>API-First</category>
       <category>TechMatter</category>
@@ -38,13 +50,13 @@
     <!-- 🔗 Medium Article -->
     <item>
       <title>Building Smarter APIs — The Developer’s Perspective</title>
-      <link>https://medium.com/@sain-bux/building-smarter-apis-the-developers-perspective</link>
-      <guid isPermaLink="true">https://medium.com/@sain-bux/building-smarter-apis-the-developers-perspective</guid>
-      <pubDate>Tue, 10 Sep 2024 09:30:00 +0000</pubDate>
+      <link>https://sain-bux.medium.com/from-code-to-cloud-my-journey-as-a-full-stack-developer-at-techmatter-ca4f21588d45</link>
+      <guid isPermaLink="true">https://sain-bux.medium.com/from-code-to-cloud-my-journey-as-a-full-stack-developer-at-techmatter-ca4f21588d45</guid>
+      <pubDate>Tue, 4 Oct 2025 23:30:00 00+05:00</pubDate>
       <author>sain@techmatterglobal.com (Sain Bux)</author>
-      <category>API Design</category>
+      <category>Full Stack Developer</category>
       <category>Full Stack Development</category>
-      <description><![CDATA[A technical deep dive into API design principles and best practices for scalable architectures.]]></description>
+      <description><![CDATA[From code to cloud my journey as a full stack developer at techmatter]]></description>
     </item>
 
   </channel>
