@@ -9,8 +9,22 @@
     <copyright>© 2025 Sain Bux. All rights reserved.</copyright>
     <managingEditor>sain@techmatterglobal.com (Sain Bux)</managingEditor>
     <webMaster>sain@techmatterglobal.com (Sain Bux)</webMaster>
-    <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Oct 2025 12:00:00 +0500</lastBuildDate>
 
+
+    <!-- CoderLegion Publication -->
+    <item>
+      <title>API-First Development: An Introduction for Modern Developers</title>
+      <link>https://coderlegion.com/6810/api-first-development-an-introduction-for-modern-developers</link>
+      <guid isPermaLink="true">https://coderlegion.com/6810/api-first-development-an-introduction-for-modern-developers</guid>
+      <pubDate>Tue, 21 Oct 2025 14:05:00 +0500</pubDate>
+      <author>sain@techmatterglobal.com (Sain Bux)</author>
+      <category>Web Development</category>
+      <description>In this article, Sain Bux introduces API-first development principles and how they reshape modern web engineering practices.</description>
+      <media:content url="https://sainbux.github.io/profile.jpg" medium="image" />
+    </item>
+    
+    
     <!-- 🔗 Dev Article -->
     <item>
       <title>Building Web Apps and Exploring Research – About Sain Bux</title>
@@ -49,4 +63,5 @@
 
   </channel>
 </rss>
+
 
