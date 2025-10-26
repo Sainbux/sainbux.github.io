@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sain Bux — TechMatter Developer Insights</title>
+    <title>Sain Bux – Official Publications Feed</title>
     <link>https://sainbux.github.io/</link>
     <atom:link href="https://sainbux.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <description>Official feed of Sain Bux — Full Stack Developer at TechMatter. Featuring API-first development insights, research, and modern web architecture discussions.</description>
@@ -63,5 +63,6 @@
 
   </channel>
 </rss>
+
 
 
