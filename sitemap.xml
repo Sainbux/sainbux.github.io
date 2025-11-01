@@ -2,16 +2,12 @@
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-
-  <!-- Home Page -->
   <url>
     <loc>https://sainbux.github.io/</loc>
     <lastmod>2025-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
-
-  <!-- About Page -->
   <url>
     <loc>https://sainbux.github.io/about</loc>
     <lastmod>2025-11-01</lastmod>
@@ -19,4 +15,5 @@
     <priority>0.8</priority>
   </url>
 </urlset>
+
 
