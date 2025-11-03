@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://sainbux.github.io/sitemap.xml
+Sitemap: https://sainbux.github.io/image-sitemap.xml
