@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+  <url>
+    <loc>https://dev.to/sain_bux_dev/building-web-apps-exploring-research-about-sain-bux-252d</loc>
+    <image:image>
+      <image:loc>https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F05ol62k6n6nl3qgaemxp.png</image:loc>
+      <image:caption>Building Web Apps &amp; Exploring Research — Sain Bux Exploring the Future of Full Stack Innovation</image:caption>
+      <image:title>Building Web Apps &amp; Exploring Research – About Sain Bux</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://www.linkedin.com/in/sainbux</loc>
+    <image:image>
+      <image:loc>https://media.licdn.com/dms/image/v2/D4D16AQEVAI1j8peZZw/profile-displaybackgroundimage-shrink_200_800/B4DZmaJjSpJgAc-/0/1759227824801?e=2147483647&amp;v=beta&amp;t=QhdvdqYz37guEkd_j1_dotXQStkyWkMIUR-ufOCUibU</image:loc>
+      <image:caption>Professional Background Banner — Sain Bux, Full Stack Developer at TechMatter</image:caption>
+      <image:title>Sain Bux — Full Stack Developer Banner</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://sainbux.github.io/articles/api-integration-strategy/</loc>
+    <image:image>
+      <image:loc>https://miro.medium.com/v2/resize:fit:1400/1*Qv--DvB-zup8Hd5DSvWAuA.png</image:loc>
+      <image:caption>Knowledge Panel — How Developers Can Build a Verified Online Presence by Sain Bux</image:caption>
+      <image:title>From Schema to Knowledge Panel — How Developers Can Build a Verified Online Presence | Sain Bux</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://about.me/sainbux</loc>
+    <image:image>
+      <image:loc>https://assets.about.me/background/users/s/a/i/sainbux_1759907542_624.png</image:loc>
+      <image:caption>About.me Professional Profile — Sain Bux, TechMatter Developer</image:caption>
+      <image:title>Sain Bux — Professional Background Image (About.me)</image:title>
+    </image:image>
+  </url>
+
+  <url>
+    <loc>https://dev.to/sain_bux_dev/how-academic-research-shapes-real-world-software-development-lessons-from-a-full-stack-developer-1k1g</loc>
+    <image:image>
+      <image:loc>https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fo9nvymkeyu7lplemumku.png</image:loc>
+      <image:caption>Academic Research Shapes Real-World — Sain Bux, TechMatter Research</image:caption>
+      <image:title>How Academic Research Shapes Real-World Software Development: Lessons from a Full Stack Developer</image:title>
+    </image:image>
+  </url>
+
+</urlset>
