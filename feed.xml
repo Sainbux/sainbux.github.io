@@ -34,7 +34,7 @@
       <title>Building Web Apps and Exploring Research – About Sain Bux</title>
       <link>https://dev.to/sain_bux_dev/building-web-apps-exploring-research-about-sain-bux-252d</link>
       <guid isPermaLink="true">https://dev.to/sain_bux_dev/building-web-apps-exploring-research-about-sain-bux-252d</guid>
-      <pubDate>Tue, 29 Sep 2025 22:10:00 00+05:00</pubDate>
+      <pubDate>Tue, 29 Sep 2025 22:10:00 +0500</pubDate>
       <author>sain@techmatterglobal.com (Sain Bux)</author>
       <category>Web Apps and Exploring Research</category>
       <category>Web Exploring</category>
@@ -46,7 +46,7 @@
       <title>API-First Development 2025 — Sain Bux Highlights the Future</title>
       <link>https://www.openpr.com/news/4233634/api-first-development-2025-sain-bux-highlights-the-future</link>
       <guid isPermaLink="true">https://www.openpr.com/news/4233634/api-first-development-2025-sain-bux-highlights-the-future</guid>
-      <pubDate>Wed, 22 Oct 2025 16:16:00+05:00</pubDate>
+      <pubDate>Wed, 22 Oct 2025 16:16: +0500</pubDate>
       <author>sain@techmatterglobal.com (Sain Bux)</author>
       <category>API-First</category>
       <category>TechMatter</category>
@@ -58,7 +58,7 @@
       <title>Building Smarter APIs — The Developer’s Perspective</title>
       <link>https://sain-bux.medium.com/from-code-to-cloud-my-journey-as-a-full-stack-developer-at-techmatter-ca4f21588d45</link>
       <guid isPermaLink="true">https://sain-bux.medium.com/from-code-to-cloud-my-journey-as-a-full-stack-developer-at-techmatter-ca4f21588d45</guid>
-      <pubDate>Tue, 4 Oct 2025 23:30:00 00+05:00</pubDate>
+      <pubDate>Tue, 4 Oct 2025 23:30:00 +0500</pubDate>
       <author>sain@techmatterglobal.com (Sain Bux)</author>
       <category>Full Stack Developer</category>
       <category>Full Stack Development</category>
@@ -67,6 +67,7 @@
 
   </channel>
 </rss>
+
 
 
 
