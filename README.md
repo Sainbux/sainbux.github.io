@@ -55,8 +55,8 @@ Hi, I'm **Sain Bux**, **Full Stack Developer** currently working at **TechMatter
 - 💻 [GitHub](https://github.com/Sainbux)  
 - 🧪 [SciProfiles](https://sciprofiles.com/profile/sainbux)  
 - 🎓 [Academia.edu](https://mehran.academia.edu/SainKhaskheli)  
-- 🐦 [Twitter / X](https://twitter.com/saien62/)  
-- 📷 [Instagram](https://www.instagram.com/saienbuksh/)  
+- 🐦 [Twitter / X](https://twitter.com/sainbuxdev/)  
+- 📷 [Instagram](https://www.instagram.com/sainbuxdev/)  
 - 📘 [Facebook](https://www.facebook.com/sainbux860/)  
 
 ---
