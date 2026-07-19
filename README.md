@@ -1,7 +1,7 @@
 # 👋 Introducing Sain Bux – Full Stack Developer At [TechMatter](https://share.google/Q4yOJxMCp3h4bukZR)  
 
 Hi, I'm **Sain Bux**, **Full Stack Developer** currently working at **TechMatter**. I specialize in building scalable web applications, crafting API-first architectures, and contributing to open-source and academic research.
-.
+. 
 ---
 
 ## 💻 Professional Background  
